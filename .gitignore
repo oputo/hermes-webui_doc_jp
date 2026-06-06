@@ -1,0 +1,16 @@
+# OS / エディタのゴミファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*~
+*.swp
+
+# Google Drive for desktop の同期一時ファイル
+*.tmp
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# 動作確認で生成された残骸（誤コミット防止）
+_probe.txt
+_同期確認.txt
